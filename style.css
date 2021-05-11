@@ -43,7 +43,7 @@ input[type=range] {
     -webkit-appearance: none;
     width: 40vw;
     margin: 50px 0;
-    background-color: linear-gradient(to right, hsl(174, 86%, 45%) 50%, lightgray 50% 100%);
+    background: linear-gradient(to right, hsl(174, 86%, 45%) 50%, lightgray 50% 100%);
 }
 
 input[type=range]::-webkit-slider-runnable-track {
